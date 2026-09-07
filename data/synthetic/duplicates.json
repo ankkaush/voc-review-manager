@@ -1,0 +1,192 @@
+[
+  {
+    "source": "seed",
+    "source_review_id": "syn-00783",
+    "location_index": 0,
+    "text": "Amazing curry, though the wait was way too long for how quiet it was.",
+    "rating": 3,
+    "submitted_at": "2026-05-11T19:04:00+00:00"
+  },
+  {
+    "source": "seed",
+    "source_review_id": "syn-00466",
+    "location_index": 1,
+    "text": "Loved the soup, cooked perfectly and full of flavor.",
+    "rating": 4,
+    "submitted_at": "2026-03-24T19:18:00+00:00"
+  },
+  {
+    "source": "seed",
+    "source_review_id": "syn-00855",
+    "location_index": 1,
+    "text": "The soup was great but we waited almost 45 minutes and the staff seemed overwhelmed.",
+    "rating": 3,
+    "submitted_at": "2026-07-04T12:13:00+00:00"
+  },
+  {
+    "source": "seed",
+    "source_review_id": "syn-00493",
+    "location_index": 1,
+    "text": "The burger was absolutely delicious, best I've had in a while.",
+    "rating": 5,
+    "submitted_at": "2026-05-05T21:14:00+00:00"
+  },
+  {
+    "source": "seed",
+    "source_review_id": "syn-00313",
+    "location_index": 2,
+    "text": "Good food but overpriced for a casual spot like this.",
+    "rating": 2,
+    "submitted_at": "2026-05-05T13:09:00+00:00"
+  },
+  {
+    "source": "seed",
+    "source_review_id": "syn-00874",
+    "location_index": 1,
+    "text": "Amazing tacos, though the wait was way too long for how quiet it was.",
+    "rating": 3,
+    "submitted_at": "2026-08-29T20:31:00+00:00"
+  },
+  {
+    "source": "seed",
+    "source_review_id": "syn-00640",
+    "location_index": 2,
+    "text": "Amazing tacos tonight, will definitely come back for it.",
+    "rating": 5,
+    "submitted_at": "2026-08-02T17:44:00+00:00"
+  },
+  {
+    "source": "seed",
+    "source_review_id": "syn-00675",
+    "location_index": 0,
+    "text": "Sat for 45 minutes before anyone even took our order.",
+    "rating": 2,
+    "submitted_at": "2026-08-04T21:37:00+00:00"
+  },
+  {
+    "source": "seed",
+    "source_review_id": "syn-00920",
+    "location_index": 2,
+    "text": "Staff were friendly and the burger was tasty, though service was slow overall.",
+    "rating": 3,
+    "submitted_at": "2026-08-21T12:33:00+00:00"
+  },
+  {
+    "source": "seed",
+    "source_review_id": "syn-00270",
+    "location_index": 1,
+    "text": "Good food but overpriced for a casual spot like this.",
+    "rating": 3,
+    "submitted_at": "2026-06-24T13:23:00+00:00"
+  },
+  {
+    "source": "seed",
+    "source_review_id": "syn-00424",
+    "location_index": 0,
+    "text": "Amazing soup tonight, will definitely come back for it.",
+    "rating": 4,
+    "submitted_at": "2026-07-06T20:47:00+00:00"
+  },
+  {
+    "source": "seed",
+    "source_review_id": "syn-00284",
+    "location_index": 1,
+    "text": "Menu prices feel high compared to similar places nearby.",
+    "rating": 2,
+    "submitted_at": "2026-08-09T20:29:00+00:00"
+  },
+  {
+    "source": "seed",
+    "source_review_id": "syn-00415",
+    "location_index": 0,
+    "text": "Fantastic pizza \u2014 fresh, well seasoned, and beautifully plated.",
+    "rating": 5,
+    "submitted_at": "2026-06-24T13:29:00+00:00"
+  },
+  {
+    "source": "seed",
+    "source_review_id": "syn-00283",
+    "location_index": 1,
+    "text": "Good food but overpriced for a casual spot like this.",
+    "rating": 3,
+    "submitted_at": "2026-08-03T17:01:00+00:00"
+  },
+  {
+    "source": "seed",
+    "source_review_id": "syn-00633",
+    "location_index": 2,
+    "text": "Loved the soup, cooked perfectly and full of flavor.",
+    "rating": 4,
+    "submitted_at": "2026-07-06T17:01:00+00:00"
+  },
+  {
+    "source": "seed",
+    "location_index": 1,
+    "text": "A bit pricey for the portion size, wouldn't call it good value.",
+    "rating": 2,
+    "submitted_at": "2026-07-14T15:13:00+00:00"
+  },
+  {
+    "source": "seed",
+    "location_index": 1,
+    "text": "A bit pricey for the portion size, wouldn't call it good value.",
+    "rating": 2,
+    "submitted_at": "2026-07-14T15:13:00+00:00"
+  },
+  {
+    "source": "seed",
+    "location_index": 2,
+    "text": "Really good steak, but the place could use a deeper clean.",
+    "rating": 3,
+    "submitted_at": "2026-03-26T16:49:00+00:00"
+  },
+  {
+    "source": "seed",
+    "location_index": 2,
+    "text": "Really good steak, but the place could use a deeper clean.",
+    "rating": 3,
+    "submitted_at": "2026-03-26T16:49:00+00:00"
+  },
+  {
+    "source": "seed",
+    "location_index": 2,
+    "text": "Good food but overpriced for a casual spot like this.",
+    "rating": 3,
+    "submitted_at": "2026-03-27T19:50:00+00:00"
+  },
+  {
+    "source": "seed",
+    "location_index": 2,
+    "text": "Good food but overpriced for a casual spot like this.",
+    "rating": 3,
+    "submitted_at": "2026-03-27T19:50:00+00:00"
+  },
+  {
+    "source": "seed",
+    "location_index": 2,
+    "text": "Menu prices feel high compared to similar places nearby.",
+    "rating": 2,
+    "submitted_at": "2026-06-13T19:54:00+00:00"
+  },
+  {
+    "source": "seed",
+    "location_index": 2,
+    "text": "Menu prices feel high compared to similar places nearby.",
+    "rating": 2,
+    "submitted_at": "2026-06-13T19:54:00+00:00"
+  },
+  {
+    "source": "seed",
+    "location_index": 2,
+    "text": "The risotto exceeded expectations, really high quality ingredients.",
+    "rating": 5,
+    "submitted_at": "2026-08-22T21:41:00+00:00"
+  },
+  {
+    "source": "seed",
+    "location_index": 2,
+    "text": "The risotto exceeded expectations, really high quality ingredients.",
+    "rating": 5,
+    "submitted_at": "2026-08-22T21:41:00+00:00"
+  }
+]

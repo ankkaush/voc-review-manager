@@ -1,0 +1,491 @@
+{
+  "total_examples": 48,
+  "scored_examples": 48,
+  "overall_sentiment_accuracy": 1.0,
+  "aspect_recall": 1.0,
+  "aspect_sentiment_accuracy": 1.0,
+  "structured_output_validity_rate": 1.0,
+  "total_ai_calls_made": 144,
+  "per_example": [
+    {
+      "source_review_id": "syn-00100",
+      "category": "wait_time_seeded",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00025",
+      "category": "wait_time_seeded",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00014",
+      "category": "wait_time_seeded",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00017",
+      "category": "wait_time_seeded",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00667",
+      "category": "wait_time_noise",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00657",
+      "category": "wait_time_noise",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00704",
+      "category": "wait_time_noise",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00695",
+      "category": "wait_time_noise",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00180",
+      "category": "cleanliness_seeded",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00136",
+      "category": "cleanliness_seeded",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00179",
+      "category": "cleanliness_seeded",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00174",
+      "category": "cleanliness_seeded",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00745",
+      "category": "cleanliness_noise",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00720",
+      "category": "cleanliness_noise",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00744",
+      "category": "cleanliness_noise",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00749",
+      "category": "cleanliness_noise",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00190",
+      "category": "price_flat",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00275",
+      "category": "price_flat",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00204",
+      "category": "price_flat",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00306",
+      "category": "price_flat",
+      "expected_sentiment": "mixed",
+      "actual_sentiment": "mixed",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00416",
+      "category": "food_positive",
+      "expected_sentiment": "positive",
+      "actual_sentiment": "positive",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00605",
+      "category": "food_positive",
+      "expected_sentiment": "positive",
+      "actual_sentiment": "positive",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00588",
+      "category": "food_positive",
+      "expected_sentiment": "positive",
+      "actual_sentiment": "positive",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00539",
+      "category": "food_positive",
+      "expected_sentiment": "positive",
+      "actual_sentiment": "positive",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-00809",
+      "category": "mixed",
+      "expected_sentiment": "mixed",
+      "actual_sentiment": "mixed",
+      "correct_sentiment": true,
+      "expected_aspect_count": 2,
+      "matched_aspect_count": 2,
+      "aspect_sentiment_hits": 2
+    },
+    {
+      "source_review_id": "syn-00861",
+      "category": "mixed",
+      "expected_sentiment": "mixed",
+      "actual_sentiment": "mixed",
+      "correct_sentiment": true,
+      "expected_aspect_count": 2,
+      "matched_aspect_count": 2,
+      "aspect_sentiment_hits": 2
+    },
+    {
+      "source_review_id": "syn-00887",
+      "category": "mixed",
+      "expected_sentiment": "mixed",
+      "actual_sentiment": "mixed",
+      "correct_sentiment": true,
+      "expected_aspect_count": 2,
+      "matched_aspect_count": 2,
+      "aspect_sentiment_hits": 2
+    },
+    {
+      "source_review_id": "syn-00883",
+      "category": "mixed",
+      "expected_sentiment": "mixed",
+      "actual_sentiment": "mixed",
+      "correct_sentiment": true,
+      "expected_aspect_count": 2,
+      "matched_aspect_count": 2,
+      "aspect_sentiment_hits": 2
+    },
+    {
+      "source_review_id": "syn-00939",
+      "category": "ambiguous",
+      "expected_sentiment": "neutral",
+      "actual_sentiment": "neutral",
+      "correct_sentiment": true,
+      "expected_aspect_count": 0,
+      "matched_aspect_count": 0,
+      "aspect_sentiment_hits": 0
+    },
+    {
+      "source_review_id": "syn-00942",
+      "category": "ambiguous",
+      "expected_sentiment": "neutral",
+      "actual_sentiment": "neutral",
+      "correct_sentiment": true,
+      "expected_aspect_count": 0,
+      "matched_aspect_count": 0,
+      "aspect_sentiment_hits": 0
+    },
+    {
+      "source_review_id": "syn-00946",
+      "category": "ambiguous",
+      "expected_sentiment": "neutral",
+      "actual_sentiment": "neutral",
+      "correct_sentiment": true,
+      "expected_aspect_count": 0,
+      "matched_aspect_count": 0,
+      "aspect_sentiment_hits": 0
+    },
+    {
+      "source_review_id": "syn-00950",
+      "category": "ambiguous",
+      "expected_sentiment": "neutral",
+      "actual_sentiment": "neutral",
+      "correct_sentiment": true,
+      "expected_aspect_count": 0,
+      "matched_aspect_count": 0,
+      "aspect_sentiment_hits": 0
+    },
+    {
+      "source_review_id": "syn-01003",
+      "category": "sarcasm",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-01009",
+      "category": "sarcasm",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-01010",
+      "category": "sarcasm",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-01011",
+      "category": "sarcasm",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-01016",
+      "category": "multilingual_es",
+      "expected_sentiment": "mixed",
+      "actual_sentiment": "mixed",
+      "correct_sentiment": true,
+      "expected_aspect_count": 0,
+      "matched_aspect_count": 0,
+      "aspect_sentiment_hits": 0
+    },
+    {
+      "source_review_id": "syn-01018",
+      "category": "multilingual_es",
+      "expected_sentiment": "positive",
+      "actual_sentiment": "positive",
+      "correct_sentiment": true,
+      "expected_aspect_count": 0,
+      "matched_aspect_count": 0,
+      "aspect_sentiment_hits": 0
+    },
+    {
+      "source_review_id": "syn-01015",
+      "category": "multilingual_es",
+      "expected_sentiment": "positive",
+      "actual_sentiment": "positive",
+      "correct_sentiment": true,
+      "expected_aspect_count": 0,
+      "matched_aspect_count": 0,
+      "aspect_sentiment_hits": 0
+    },
+    {
+      "source_review_id": "syn-01026",
+      "category": "multilingual_es",
+      "expected_sentiment": "negative",
+      "actual_sentiment": "negative",
+      "correct_sentiment": true,
+      "expected_aspect_count": 0,
+      "matched_aspect_count": 0,
+      "aspect_sentiment_hits": 0
+    },
+    {
+      "source_review_id": "syn-01025",
+      "category": "multilingual_fr",
+      "expected_sentiment": "mixed",
+      "actual_sentiment": "mixed",
+      "correct_sentiment": true,
+      "expected_aspect_count": 0,
+      "matched_aspect_count": 0,
+      "aspect_sentiment_hits": 0
+    },
+    {
+      "source_review_id": "syn-01034",
+      "category": "multilingual_fr",
+      "expected_sentiment": "positive",
+      "actual_sentiment": "positive",
+      "correct_sentiment": true,
+      "expected_aspect_count": 0,
+      "matched_aspect_count": 0,
+      "aspect_sentiment_hits": 0
+    },
+    {
+      "source_review_id": "syn-01021",
+      "category": "multilingual_fr",
+      "expected_sentiment": "positive",
+      "actual_sentiment": "positive",
+      "correct_sentiment": true,
+      "expected_aspect_count": 0,
+      "matched_aspect_count": 0,
+      "aspect_sentiment_hits": 0
+    },
+    {
+      "source_review_id": "syn-01031",
+      "category": "multilingual_fr",
+      "expected_sentiment": "mixed",
+      "actual_sentiment": "mixed",
+      "correct_sentiment": true,
+      "expected_aspect_count": 0,
+      "matched_aspect_count": 0,
+      "aspect_sentiment_hits": 0
+    },
+    {
+      "source_review_id": "syn-01050",
+      "category": "seasonal",
+      "expected_sentiment": "positive",
+      "actual_sentiment": "positive",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-01051",
+      "category": "seasonal",
+      "expected_sentiment": "positive",
+      "actual_sentiment": "positive",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-01047",
+      "category": "seasonal",
+      "expected_sentiment": "positive",
+      "actual_sentiment": "positive",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    },
+    {
+      "source_review_id": "syn-01041",
+      "category": "seasonal",
+      "expected_sentiment": "positive",
+      "actual_sentiment": "positive",
+      "correct_sentiment": true,
+      "expected_aspect_count": 1,
+      "matched_aspect_count": 1,
+      "aspect_sentiment_hits": 1
+    }
+  ]
+}

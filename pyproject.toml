@@ -1,0 +1,24 @@
+[tool.ruff]
+line-length = 110
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+# B008: Depends(...) in a default argument is FastAPI's documented dependency-injection
+# idiom, not the antipattern this rule targets.
+ignore = ["B008"]
+
+[tool.ruff.lint.per-file-ignores]
+"alembic/versions/*.py" = ["E501"]
+# Literal template strings, seeded fixture dicts, and manifest dicts read far worse
+# force-wrapped than left as single lines.
+"scripts/generate_synthetic_dataset.py" = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "unit: deterministic unit tests",
+    "integration: tests hitting the API/DB",
+    "eval: AI quality evaluation (non-blocking)",
+    "e2e: end-to-end tests",
+]

@@ -1,0 +1,26 @@
+# Render Blueprint (Phase 10 spec — actual provisioning happens in Phase 12).
+#
+# Defines the scheduled job that periodically runs the deterministic pipeline
+# (aggregate -> issue detection -> trend/priority recompute -> outcome evaluation).
+# AI-touching stages (review analysis, insight generation) are intentionally left OFF
+# by default — see scripts/run_pipeline.py — so the cron job can never silently spend
+# API budget; enabling them here is a deliberate opt-in via extra env vars.
+services:
+  - type: cron
+    name: voc-pipeline
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    schedule: "0 6 * * *" # daily at 06:00 UTC
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: voc-review-manager-db
+          property: connectionString
+      - key: PIPELINE_BUSINESS_NAME
+        value: "The Local Table"
+    dockerCommand: >
+      python scripts/run_pipeline.py --business-name "$PIPELINE_BUSINESS_NAME"
+
+databases:
+  - name: voc-review-manager-db
+    plan: free

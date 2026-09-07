@@ -1,0 +1,826 @@
+[
+  {
+    "source_review_id": "syn-00100",
+    "text": "The wait time was ridiculous for how empty the place looked.",
+    "location_index": 1,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "service"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "wait_time",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "medium",
+    "expected_language": "en",
+    "category": "wait_time_seeded"
+  },
+  {
+    "source_review_id": "syn-00025",
+    "text": "Had to wait almost 50 minutes for our order, staff seemed overwhelmed.",
+    "location_index": 1,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "service"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "wait_time",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "medium",
+    "expected_language": "en",
+    "category": "wait_time_seeded"
+  },
+  {
+    "source_review_id": "syn-00014",
+    "text": "The wait time was ridiculous for how empty the place looked.",
+    "location_index": 1,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "service"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "wait_time",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "medium",
+    "expected_language": "en",
+    "category": "wait_time_seeded"
+  },
+  {
+    "source_review_id": "syn-00017",
+    "text": "Sat for 50 minutes before anyone even took our order.",
+    "location_index": 1,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "service"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "wait_time",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "medium",
+    "expected_language": "en",
+    "category": "wait_time_seeded"
+  },
+  {
+    "source_review_id": "syn-00667",
+    "text": "Service was painfully slow, took forever to get our food out.",
+    "location_index": 0,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "service"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "wait_time",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "wait_time_noise"
+  },
+  {
+    "source_review_id": "syn-00657",
+    "text": "Sat for 45 minutes before anyone even took our order.",
+    "location_index": 0,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "service"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "wait_time",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "wait_time_noise"
+  },
+  {
+    "source_review_id": "syn-00704",
+    "text": "Sat for 45 minutes before anyone even took our order.",
+    "location_index": 2,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "service"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "wait_time",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "wait_time_noise"
+  },
+  {
+    "source_review_id": "syn-00695",
+    "text": "We waited 35 minutes just to be seated, way too long.",
+    "location_index": 2,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "service"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "wait_time",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "wait_time_noise"
+  },
+  {
+    "source_review_id": "syn-00180",
+    "text": "The dining area wasn't cleaned between customers, noticed crumbs everywhere.",
+    "location_index": 0,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "cleanliness"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "cleanliness_general",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "medium",
+    "expected_language": "en",
+    "category": "cleanliness_seeded"
+  },
+  {
+    "source_review_id": "syn-00136",
+    "text": "Floor was sticky and the whole place felt unclean.",
+    "location_index": 0,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "cleanliness"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "cleanliness_general",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "medium",
+    "expected_language": "en",
+    "category": "cleanliness_seeded"
+  },
+  {
+    "source_review_id": "syn-00179",
+    "text": "Restrooms were in poor condition, not what I'd expect.",
+    "location_index": 0,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "cleanliness"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "cleanliness_general",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "medium",
+    "expected_language": "en",
+    "category": "cleanliness_seeded"
+  },
+  {
+    "source_review_id": "syn-00174",
+    "text": "The dining area wasn't cleaned between customers, noticed crumbs everywhere.",
+    "location_index": 0,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "cleanliness"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "cleanliness_general",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "medium",
+    "expected_language": "en",
+    "category": "cleanliness_seeded"
+  },
+  {
+    "source_review_id": "syn-00745",
+    "text": "Silverware had visible residue on it, pretty off-putting.",
+    "location_index": 2,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "cleanliness"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "cleanliness_general",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "cleanliness_noise"
+  },
+  {
+    "source_review_id": "syn-00720",
+    "text": "The dining area wasn't cleaned between customers, noticed crumbs everywhere.",
+    "location_index": 1,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "cleanliness"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "cleanliness_general",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "cleanliness_noise"
+  },
+  {
+    "source_review_id": "syn-00744",
+    "text": "Floor was sticky and the whole place felt unclean.",
+    "location_index": 2,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "cleanliness"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "cleanliness_general",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "cleanliness_noise"
+  },
+  {
+    "source_review_id": "syn-00749",
+    "text": "Silverware had visible residue on it, pretty off-putting.",
+    "location_index": 2,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "cleanliness"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "cleanliness_general",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "cleanliness_noise"
+  },
+  {
+    "source_review_id": "syn-00190",
+    "text": "Menu prices feel high compared to similar places nearby.",
+    "location_index": 0,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "price"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "price_value",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "price_flat"
+  },
+  {
+    "source_review_id": "syn-00275",
+    "text": "A bit pricey for the portion size, wouldn't call it good value.",
+    "location_index": 1,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "price"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "price_value",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "price_flat"
+  },
+  {
+    "source_review_id": "syn-00204",
+    "text": "A bit pricey for the portion size, wouldn't call it good value.",
+    "location_index": 0,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "price"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "price_value",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "price_flat"
+  },
+  {
+    "source_review_id": "syn-00306",
+    "text": "Good food but overpriced for a casual spot like this.",
+    "location_index": 2,
+    "expected_overall_sentiment": "mixed",
+    "expected_topics": [
+      "price"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "price_value",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "price_flat"
+  },
+  {
+    "source_review_id": "syn-00416",
+    "text": "Fantastic steak \u2014 fresh, well seasoned, and beautifully plated.",
+    "location_index": 0,
+    "expected_overall_sentiment": "positive",
+    "expected_topics": [
+      "food"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "food_quality",
+        "sentiment": "positive"
+      }
+    ],
+    "expected_severity": null,
+    "expected_language": "en",
+    "category": "food_positive"
+  },
+  {
+    "source_review_id": "syn-00605",
+    "text": "Fantastic pizza \u2014 fresh, well seasoned, and beautifully plated.",
+    "location_index": 2,
+    "expected_overall_sentiment": "positive",
+    "expected_topics": [
+      "food"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "food_quality",
+        "sentiment": "positive"
+      }
+    ],
+    "expected_severity": null,
+    "expected_language": "en",
+    "category": "food_positive"
+  },
+  {
+    "source_review_id": "syn-00588",
+    "text": "Loved the risotto, cooked perfectly and full of flavor.",
+    "location_index": 2,
+    "expected_overall_sentiment": "positive",
+    "expected_topics": [
+      "food"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "food_quality",
+        "sentiment": "positive"
+      }
+    ],
+    "expected_severity": null,
+    "expected_language": "en",
+    "category": "food_positive"
+  },
+  {
+    "source_review_id": "syn-00539",
+    "text": "Fantastic steak \u2014 fresh, well seasoned, and beautifully plated.",
+    "location_index": 1,
+    "expected_overall_sentiment": "positive",
+    "expected_topics": [
+      "food"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "food_quality",
+        "sentiment": "positive"
+      }
+    ],
+    "expected_severity": null,
+    "expected_language": "en",
+    "category": "food_positive"
+  },
+  {
+    "source_review_id": "syn-00809",
+    "text": "The steak was great but we waited almost 45 minutes and the staff seemed overwhelmed.",
+    "location_index": 0,
+    "expected_overall_sentiment": "mixed",
+    "expected_topics": [
+      "food",
+      "service"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "food_quality",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "wait_time",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "mixed"
+  },
+  {
+    "source_review_id": "syn-00861",
+    "text": "Really good steak, but the place could use a deeper clean.",
+    "location_index": 1,
+    "expected_overall_sentiment": "mixed",
+    "expected_topics": [
+      "food",
+      "service"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "food_quality",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "cleanliness_general",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "mixed"
+  },
+  {
+    "source_review_id": "syn-00887",
+    "text": "Amazing steak, though the wait was way too long for how quiet it was.",
+    "location_index": 2,
+    "expected_overall_sentiment": "mixed",
+    "expected_topics": [
+      "food",
+      "service"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "food_quality",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "wait_time",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "mixed"
+  },
+  {
+    "source_review_id": "syn-00883",
+    "text": "Amazing pasta, though the wait was way too long for how quiet it was.",
+    "location_index": 2,
+    "expected_overall_sentiment": "mixed",
+    "expected_topics": [
+      "food",
+      "service"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "food_quality",
+        "sentiment": "positive"
+      },
+      {
+        "aspect": "wait_time",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "mixed"
+  },
+  {
+    "source_review_id": "syn-00939",
+    "text": "It was fine.",
+    "location_index": 0,
+    "expected_overall_sentiment": "neutral",
+    "expected_topics": [],
+    "expected_aspects": [],
+    "expected_severity": null,
+    "expected_language": "en",
+    "category": "ambiguous"
+  },
+  {
+    "source_review_id": "syn-00942",
+    "text": "Decent, nothing special.",
+    "location_index": 0,
+    "expected_overall_sentiment": "neutral",
+    "expected_topics": [],
+    "expected_aspects": [],
+    "expected_severity": null,
+    "expected_language": "en",
+    "category": "ambiguous"
+  },
+  {
+    "source_review_id": "syn-00946",
+    "text": "ok food.",
+    "location_index": 0,
+    "expected_overall_sentiment": "neutral",
+    "expected_topics": [],
+    "expected_aspects": [],
+    "expected_severity": null,
+    "expected_language": "en",
+    "category": "ambiguous"
+  },
+  {
+    "source_review_id": "syn-00950",
+    "text": "Decent, nothing special.",
+    "location_index": 0,
+    "expected_overall_sentiment": "neutral",
+    "expected_topics": [],
+    "expected_aspects": [],
+    "expected_severity": null,
+    "expected_language": "en",
+    "category": "ambiguous"
+  },
+  {
+    "source_review_id": "syn-01003",
+    "text": "Oh great, another 45 minute wait, exactly what I love on a weeknight.",
+    "location_index": 1,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "service"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "wait_time",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "sarcasm"
+  },
+  {
+    "source_review_id": "syn-01009",
+    "text": "Wow, so fast... after 40 minutes of standing around.",
+    "location_index": 2,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "service"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "wait_time",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "sarcasm"
+  },
+  {
+    "source_review_id": "syn-01010",
+    "text": "Wow, so fast... after 40 minutes of standing around.",
+    "location_index": 2,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "service"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "wait_time",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "sarcasm"
+  },
+  {
+    "source_review_id": "syn-01011",
+    "text": "Wow, so fast... after 40 minutes of standing around.",
+    "location_index": 2,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "service"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "wait_time",
+        "sentiment": "negative"
+      }
+    ],
+    "expected_severity": "low",
+    "expected_language": "en",
+    "category": "sarcasm"
+  },
+  {
+    "source_review_id": "syn-01016",
+    "text": "La comida estuvo deliciosa pero el servicio fue muy lento.",
+    "location_index": 0,
+    "expected_overall_sentiment": "mixed",
+    "expected_topics": [
+      "food",
+      "service"
+    ],
+    "expected_aspects": [],
+    "expected_severity": null,
+    "expected_language": "es",
+    "category": "multilingual_es"
+  },
+  {
+    "source_review_id": "syn-01018",
+    "text": "Excelente atencion y ambiente agradable, volveremos pronto.",
+    "location_index": 0,
+    "expected_overall_sentiment": "positive",
+    "expected_topics": [
+      "food",
+      "service"
+    ],
+    "expected_aspects": [],
+    "expected_severity": null,
+    "expected_language": "es",
+    "category": "multilingual_es"
+  },
+  {
+    "source_review_id": "syn-01015",
+    "text": "Buena relacion calidad-precio, la pasta estuvo muy rica.",
+    "location_index": 0,
+    "expected_overall_sentiment": "positive",
+    "expected_topics": [
+      "food",
+      "service"
+    ],
+    "expected_aspects": [],
+    "expected_severity": null,
+    "expected_language": "es",
+    "category": "multilingual_es"
+  },
+  {
+    "source_review_id": "syn-01026",
+    "text": "El lugar estaba sucio y tuvimos que esperar demasiado.",
+    "location_index": 1,
+    "expected_overall_sentiment": "negative",
+    "expected_topics": [
+      "food",
+      "service"
+    ],
+    "expected_aspects": [],
+    "expected_severity": null,
+    "expected_language": "es",
+    "category": "multilingual_es"
+  },
+  {
+    "source_review_id": "syn-01025",
+    "text": "Un peu cher pour la portion, mais le plat etait savoureux.",
+    "location_index": 1,
+    "expected_overall_sentiment": "mixed",
+    "expected_topics": [
+      "food",
+      "service"
+    ],
+    "expected_aspects": [],
+    "expected_severity": null,
+    "expected_language": "fr",
+    "category": "multilingual_fr"
+  },
+  {
+    "source_review_id": "syn-01034",
+    "text": "Personnel tres sympathique et rapide, tres bonne experience.",
+    "location_index": 2,
+    "expected_overall_sentiment": "positive",
+    "expected_topics": [
+      "food",
+      "service"
+    ],
+    "expected_aspects": [],
+    "expected_severity": null,
+    "expected_language": "fr",
+    "category": "multilingual_fr"
+  },
+  {
+    "source_review_id": "syn-01021",
+    "text": "Personnel tres sympathique et rapide, tres bonne experience.",
+    "location_index": 0,
+    "expected_overall_sentiment": "positive",
+    "expected_topics": [
+      "food",
+      "service"
+    ],
+    "expected_aspects": [],
+    "expected_severity": null,
+    "expected_language": "fr",
+    "category": "multilingual_fr"
+  },
+  {
+    "source_review_id": "syn-01031",
+    "text": "Un peu cher pour la portion, mais le plat etait savoureux.",
+    "location_index": 2,
+    "expected_overall_sentiment": "mixed",
+    "expected_topics": [
+      "food",
+      "service"
+    ],
+    "expected_aspects": [],
+    "expected_severity": null,
+    "expected_language": "fr",
+    "category": "multilingual_fr"
+  },
+  {
+    "source_review_id": "syn-01050",
+    "text": "Busy night but the team handled the crowd well.",
+    "location_index": 2,
+    "expected_overall_sentiment": "positive",
+    "expected_topics": [
+      "ambiance"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "staff_attentiveness",
+        "sentiment": "positive"
+      }
+    ],
+    "expected_severity": null,
+    "expected_language": "en",
+    "category": "seasonal"
+  },
+  {
+    "source_review_id": "syn-01051",
+    "text": "Busy night but the team handled the crowd well.",
+    "location_index": 2,
+    "expected_overall_sentiment": "positive",
+    "expected_topics": [
+      "ambiance"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "staff_attentiveness",
+        "sentiment": "positive"
+      }
+    ],
+    "expected_severity": null,
+    "expected_language": "en",
+    "category": "seasonal"
+  },
+  {
+    "source_review_id": "syn-01047",
+    "text": "Packed house tonight, food still came out solid.",
+    "location_index": 1,
+    "expected_overall_sentiment": "positive",
+    "expected_topics": [
+      "ambiance"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "food_quality",
+        "sentiment": "positive"
+      }
+    ],
+    "expected_severity": null,
+    "expected_language": "en",
+    "category": "seasonal"
+  },
+  {
+    "source_review_id": "syn-01041",
+    "text": "Great atmosphere for the holidays, enjoyed the special menu.",
+    "location_index": 0,
+    "expected_overall_sentiment": "positive",
+    "expected_topics": [
+      "ambiance"
+    ],
+    "expected_aspects": [
+      {
+        "aspect": "atmosphere",
+        "sentiment": "positive"
+      }
+    ],
+    "expected_severity": null,
+    "expected_language": "en",
+    "category": "seasonal"
+  }
+]
