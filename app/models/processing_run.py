@@ -31,7 +31,7 @@ class ProcessingRunStatus(str, enum.Enum):
 
 
 class ProcessingRun(UUIDPrimaryKeyMixin, TimestampMixin, Base):
-    """Technical observability: one row per pipeline run (§9 of PHASE0_ARCHITECTURE.md).
+    """Technical observability: one row per pipeline run (§9 of ARCHITECTURE.md).
 
     Answers "what ran, when, how many succeeded/failed" independently of business
     analytics — never joined against or displayed on the customer-facing dashboard.

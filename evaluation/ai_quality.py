@@ -1,4 +1,4 @@
-"""AI quality evaluation (§6/§12 of PHASE0_ARCHITECTURE.md; consolidated in Phase 11).
+"""AI quality evaluation (§6/§12 of ARCHITECTURE.md; consolidated in Phase 11).
 
 Runs the real analysis pipeline against the ~40 hand-labeled examples in
 data/synthetic/eval_labels.json and reports:

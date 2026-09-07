@@ -1,9 +1,17 @@
+> **This is the deep technical reference** — the original architecture package this system was
+> designed against, kept intact as-written (including its phase-by-phase build plan, ADR log, and
+> resolved open-questions log) because that reasoning is still accurate and worth preserving. For
+> a scannable overview of what's actually built, tested, and verified today, see
+> [README.md](README.md) instead — this document predates implementation and is not the place to
+> check current status.
+
 # Phase 0 Architecture Package — Review Manager / Voice of Customer
 
-Status: **FINAL — APPROVED FOR IMPLEMENTATION.** All six open questions from the prior draft are
-resolved (§15) and the corrections below (Review status split, groundedness layering, background-
-processing terminology, Phase 8 demotion) are incorporated. No implementation, scaffolding, or
-application code has been written. Phase 1 has not started.
+Status: **FINAL — APPROVED FOR IMPLEMENTATION** (as of the initial design review). All six open
+questions from the prior draft are resolved (§15) and the corrections below (Review status split,
+groundedness layering, background-processing terminology, Phase 8 demotion) are incorporated. This
+section describes the state of the *plan* at design time, before Phase 1 began — see README.md for
+what has since been built.
 
 ---
 

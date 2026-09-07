@@ -1,4 +1,4 @@
-"""Generates the synthetic review dataset described in PHASE0_ARCHITECTURE.md §7.
+"""Generates the synthetic review dataset described in ARCHITECTURE.md §7.
 
 This is a *test fixture with known ground truth*, not demo filler: every category
 (recurring negative/positive patterns, an emerging issue, a declining issue after a
