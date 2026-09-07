@@ -348,5 +348,4 @@ Presented as deliberate boundaries, not apologies:
 
 ## License
 
-No license file is currently included — all rights reserved by default. Reach out if
-you'd like to discuss usage.
+[MIT](LICENSE) — free to use, modify, and adapt.
